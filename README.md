@@ -78,9 +78,9 @@ footer{
 }
 </style>
 </head>
-<meta name="google-site-verification" content="mxrhzbfLz6KoqRlFAW4BswxFnHm5mhiPoWZPzxPpHNY" />
-<body>
 
+<body>
+<meta name="google-site-verification" content="mxrhzbfLz6KoqRlFAW4BswxFnHm5mhiPoWZPzxPpHNY" />
 <header>
 <h1>Free Submission</h1>
 <p>फ्री में वेबसाइट ट्रैफिक बढ़ाएं और Google में Index कराएं</p>
