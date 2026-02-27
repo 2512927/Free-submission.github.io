@@ -2,8 +2,8 @@
 <!DOCTYPE html>
 <html lang="hi">
 <head>
+    <meta name="google-site-verification" content="mxrhzbfLz6KoqRlFAW4BswxFnHm5mhiPoWZPzxPpHNY" />
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Free Submission – फ्री में वेबसाइट ट्रैफिक और Google Indexing</title>
 
