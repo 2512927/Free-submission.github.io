@@ -5,7 +5,7 @@
     <meta name="google-site-verification" content="mxrhzbfLz6KoqRlFAW4BswxFnHm5mhiPoWZPzxPpHNY" />
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Free Submission – फ्री में वेबसाइट ट्रैफिक और Google Indexing</title
+<title>Free Submission – फ्री में वेबसाइट ट्रैफिक और Google Indexing</title>
 <!-- SEO -->
 <meta name="description" content="Free Submission से फ्री backlinks पाएं, वेबसाइट ट्रैफिक बढ़ाएं और Google में तेज़ी से index कराएं। 100% free और आसान तरीका।">
 <meta name="keywords" content="Free Submission, Free Backlinks, Website Traffic, Google Indexing, SEO">
