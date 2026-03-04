@@ -3,12 +3,9 @@
 <!DOCTYPE html>
 <html lang="hi">
 <head>
-    <meta name="google-site-verification" content="mxrhzbfLz6KoqRlFAW4BswxFnHm5mhiPoWZPzxPpHNY" />
 <meta charset="UTF-8">
-
-<title>Free Submission – फ्री में वेबसाइट ट्रैफिक और Google Indexing</title>
-
 <meta name="google-site-verification" content="mxrhzbfLz6KoqRlFAW4BswxFnHm5mhiPoWZPzxPpHNY" />
+<title>Free Submission – फ्री में वेबसाइट ट्रैफिक और Google Indexing</title>
 
 <!-- SEO Meta -->
 <meta name="description" content="Free Submission से फ्री backlinks पाएं, वेबसाइट ट्रैफिक बढ़ाएं और Google में तेज़ी से index कराएं। 100% free और आसान तरीका।">
@@ -79,7 +76,6 @@ footer{
 }
 </style>
 </head>
-<meta name="google-site-verification" content="mxrhzbfLz6KoqRlFAW4BswxFnHm5mhiPoWZPzxPpHNY" />
 <body>
 <header>
 <h1>Free Submission</h1>
