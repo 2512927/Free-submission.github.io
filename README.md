@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html lang="hi">
 <head>
+<meta charset="UTF-8">
     <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4DEV5X7YXY"></script>
 <script>
@@ -12,7 +13,6 @@
 
   gtag('config', 'G-4DEV5X7YXY');
 </script>
-<meta charset="UTF-8">
     <meta name="google-site-verification" content="mxrhzbfLz6KoqRlFAW4BswxFnHm5mhiPoWZPzxPpHNY" />
 <title>Free Submission – फ्री में वेबसाइट ट्रैफिक और Google Indexing</title>
 
