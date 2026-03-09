@@ -1,16 +1,8 @@
+
 # free submission
 # index.html
 <!DOCTYPE html>
 <html lang="hi">
-   <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4DEV5X7YXY"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-4DEV5X7YXY');
-</script> 
 <head>
 <meta charset="UTF-8">
     <!-- Google tag (gtag.js) -->
