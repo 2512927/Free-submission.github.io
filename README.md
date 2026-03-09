@@ -1,9 +1,8 @@
 
 # free submission
 # index.html
-<!DOCTYPE html>
-<html lang="hi">
 <head>
+    <meta name="google-site-verification" content="mxrhzbfLz6KoqRlFAW4BswxFnHm5mhiPoWZPzxPpHNY" />
     <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4DEV5X7YXY"></script>
 <script>
