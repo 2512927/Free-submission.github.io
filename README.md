@@ -13,7 +13,7 @@
 
   gtag('config', 'G-4DEV5X7YXY');
 </script>
-<meta charset="UTF-8">
+
    
 <title>Free Submission – फ्री में वेबसाइट ट्रैफिक और Google Indexing</title>
 
